@@ -2,3 +2,4 @@
 
 1. Yash Ghodekar
 2. Narhari Kale
+3. Vedant Lahane
