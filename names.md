@@ -6,3 +6,4 @@
 4. Vijay Tembugade
 5. Rushikesh Tarapure
 6. Prathmesh Jagtap
+7. Om Gaikwad
