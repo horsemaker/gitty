@@ -5,3 +5,4 @@
 3. Vedant Lahane
 4. Vijay Tembugade
 5. Rushikesh Tarapure
+6. Prathmesh Jagtap
