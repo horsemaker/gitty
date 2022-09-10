@@ -10,3 +10,4 @@
 8. Aditya Nahak
 9. Raviraj Shinde
 10. Samarjeetsingh Gaidhu
+11. Khushal Thepane
